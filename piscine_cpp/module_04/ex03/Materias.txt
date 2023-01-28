@@ -1,0 +1,5 @@
+fireball "shoots a fireball at %"
+poison "poisons %"
+earthquake "starts an earthquake under %'s feet"
+necromancy "resurects % in a zombified form"
+armor "applies damage resistance to %"

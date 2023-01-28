@@ -1,0 +1,9 @@
+occurence++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+This text has a lot of occurences of the word occurence because
+we need to check if all the occurences of occurence get changed to
+something else than "occurence", maybe "not occurence" or
+"not occurence at all", but at least some other occurence of occurences
+than occurence, I like the term "occurence", it feels like a lot of
+occurences are doing some occurences in the occurence of the
+occurenced earth that has some occurences of trees and stuff.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++occurence
